@@ -1,6 +1,7 @@
 # 👋 Hello, I’m Tyler
 Just getting started on this journey ✨
 - ⚙️ I’m interested in MySQL and automation.
+- 🕯️ My work experience is in the development and maintenance of manufacturing and Biomass systems.
 - 🤓 I’m currently learning Java.
 
 <!---
