@@ -1,8 +1,8 @@
 # 👋 Hello, I’m Tyler
 Just getting started on this journey ✨
-- ⚙️ I’m interested in MySQL and automation.
+- ⚙️ I’m interested in mySQL and automation.
 - 🕯️ My experience is in the development and maintenance of manufacturing and Biomass systems.
-- 🤓 I’m currently learning Java.
+- 🤓 I’m currently learning mySQL.
 
 <!---
 tylerjlivermore/tylerjlivermore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
