@@ -1,4 +1,4 @@
-# 👋 Hello, I’m Tyler
+# 👋 Hi, I’m Tyler
 - ⚙️ I’m interested in mySQL and automation.
 - 🕯️ My experience is in the development and maintenance of manufacturing and Biomass control systems.
 - 🤓 This account is for my learning of Java, mySQL, and their integration with each other.
